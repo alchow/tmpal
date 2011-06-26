@@ -22,19 +22,19 @@
 									 <a href="site.php?siteName=nettuts">pic1</a> 
 								</li> 
 								<li>
-									<img src="img/pic2.png" alt="pic2"/>
+									<img class="long-thumbs" src="img/pic2.png" alt="pic2"/>
 									 <a href="site.php?siteName=nettuts">pic2</a> 
 								</li>
 								<li>
-									<img src="img/pic3.png" alt="pic3"/>
+									<img class="long-thumbs" src="img/pic3.png" alt="pic3"/>
 									 <a href="site.php?siteName=nettuts">pic3</a> 
 								</li>
 								<li>
-									<img src="img/pic4.png" alt="pic4"/>
+									<img class="long-thumbs" src="img/pic4.png" alt="pic4"/>
 									 <a href="site.php?siteName=nettuts">pic4</a> 
 								</li>
 								<li>
-									<img src="img/pic5.png" alt="pic5"/>
+									<img class="long-thumbs" src="img/pic5.png" alt="pic5"/>
 									 <a href="site.php?siteName=nettuts">pic5</a> 
 								</li>
 
