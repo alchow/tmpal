@@ -18,7 +18,7 @@
 
 							<ul data-role="listview" data-theme="c" data-dividertheme="b"> 
 <?php
-for($i=0; $i < 100; $i++){
+for($i=0; $i < 40; $i++){
 	echo("<li>");
 	echo('<img class="long-thumbs" src="img/pic'.($i%5+1).'.png" alt="pic'.$i.'"/>');
 	echo('<a href="site.php?siteName=nettuts">pic'.$i.'</a> ');
