@@ -4,7 +4,7 @@
         <meta charset="UTF-8" /> 
         <title>jQTouch &beta;</title> 
         <style type="text/css" media="screen">@import "jqtouch/jqtouch.css";</style> 
-        <style type="text/css" media="screen">@import "themes/jqt/theme.css";</style> 
+        <style type="text/css" media="screen">@import "themes/apple/theme.css";</style> 
         <script src="/jqtouch/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script> 
         <script src="/jqtouch/jqtouch.js" type="application/x-javascript" charset="utf-8"></script> 
 		<link rel="stylesheet"  href="style/gallery.css" /> 
