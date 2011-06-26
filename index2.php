@@ -74,7 +74,7 @@
 						for($i=0; $i < 40; $i++){
 							echo('<li class="arrow">');
 							echo('<img class="" src="img/pic'.($i%5+1).'.png"/>');
-							echo('<a href="">pic'.$i.'</a> ');
+							//echo('<a href="">pic'.$i.'</a> ');
 							echo("</li>");
 						}
 						?>
