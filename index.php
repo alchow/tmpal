@@ -18,7 +18,7 @@
 
 							<ul data-role="listview" data-theme="c" data-dividertheme="b"> 
 								<li>
-									<img src="img/pic1.png" alt="pic1"/>
+									<img class="long-thumbs" src="img/pic1.png" alt="pic1"/>
 									 <a href="site.php?siteName=nettuts">pic1</a> 
 								</li> 
 								<li>
